@@ -34,11 +34,12 @@ cv/
 
 ### Setup Instructions
 
-1. Clone or download this repository:
-```bash
-git clone [https://github.com/fatimafarhan2/cv-learning](https://github.com/fatimafarhan2/cv-learning)
 
-cd cv
+### 1. Clone or download this repository:
+
+```bash
+git clone https://github.com/fatimafarhan2/cv-learning.git
+cd cv-learning
 ```
 
 2. Create a virtual environment (recommended):
