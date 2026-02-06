@@ -36,7 +36,7 @@ cv/
 
 1. Clone or download this repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/fatimafarhan2/cv-learning->
 cd cv
 ```
 
